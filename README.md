@@ -2,7 +2,7 @@
  A Simple Gradient Weather App
 The provided HTML and CSS code constitute the foundation of a user-friendly weather application interface. Here's an in-depth summary of its features and design principles:
 
-##HTML:
+#HTML:
 
 The HTML structure is meticulously crafted to ensure a well-organized layout for the weather application interface.
 It begins with a <!DOCTYPE html> declaration followed by the <html> root element with the specified language attribute set to "en".
@@ -10,7 +10,9 @@ Within the <head> section, meta tags are included to define character encoding a
 The title of the application, "Weather App", is set within the <title> tag.
 An external stylesheet, "style.css", is linked to enhance the visual presentation and maintain separation of concerns.
 The <body> element encapsulates the entire content of the application, facilitating structured display and interaction.
-##CSS:
+
+
+#CSS:
 
 The CSS rules are meticulously crafted to achieve a visually appealing and user-friendly design for the weather application.
 A global reset is applied to standardize default margin, padding, font-family, and box-sizing across different browsers for a consistent user experience.
