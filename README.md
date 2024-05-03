@@ -1,5 +1,5 @@
-# WeatherApp Made Using OpenWeather
-Check the live project on [www.weather.unaux.com](http://weather.unaux.com/?i=1)
+# WeatherApp Made Using OpenWeather API
+Check the live website on [www.weather.unaux.com](http://weather.unaux.com/?i=1)
 
 A Simple Gradient Weather App
 The provided HTML and CSS code constitute the foundation of a user-friendly weather application interface. Here's an in-depth summary of its features and design principles:
